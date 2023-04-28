@@ -1,0 +1,14 @@
+.chip{
+    width: fit-content;
+    height: fit-content;
+    font-size: 10px;
+    background-color: #AED6F1;
+    color: #154360;
+    inline-size: 45px;
+    border-radius: 30px;
+    padding: 1px 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border : solid 1px #85C1E9;
+}
